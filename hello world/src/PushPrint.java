@@ -2,6 +2,6 @@
 public class PushPrint {
 		public static void main(String[] args) {
 			System.out.println("Add Java Class File Push");
-			System.out.printin("world with 42");
+			System.out.println("world with 42");
 		}
 	}
